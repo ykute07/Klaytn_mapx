@@ -42,13 +42,16 @@ b)This serves as a marketing tool for businesses to drive foot traffic while pro
 
 
 
-<img src='./screenshot/celo1.jpg' />
+<img src='./screenshot/klaytn_logo.jpg' />
 
-## Why Celo
+## Why Klaytn
 
-Celo is one of the most viable blockchain available in the market. First-generation blockchains such as Bitcoin paved the way for the industry. However, they did not create a functional environment for developing complex smart contract-based financial solutions. Second-generation blockchains such as Ethereum introduced smart contract capabilities. However, they suffer from significant scalability issues, resulting in network congestion and high transaction fees for users.
-
-On the other hand, Tezos is a third-generation blockchain that combines the former’s properties and has evolved to solve this issue.
+• Klaytn is an open-source public blockchain for all who wish to build, work, or play in the metaverse. 
+• Klaytn is a highly optimized, BFT-based public blockchain that delivers enterprise-grade reliability to Serve as a metaverse blockchain for all. 
+• With real-world 4,000 TPS and 1-second transaction finality, Klaytn brings you an unparalleled developer experience. 
+• With Klaytn’s ServiceChain, we can build customized side chains that provide dedicated throughput without sacrificing transparency and data integrity. 
+• Klaytn welcomingly supports contributors to their ecosystem by providing grants for projects and activities. 
+• Klaytn’s active community built around the common passion for Klaytn and the web3 space has our back.
 
 
 
@@ -59,7 +62,7 @@ On the other hand, Tezos is a third-generation blockchain that combines the form
 
 
 ## How to Install 
-1) Download the apk file [MAPX](https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing) https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing and install in your android phone 
+1) Download the apk file [MAPX](https://drive.google.com/file/d/1N2hmAeKCmNn6orZerreoCYn85i1L4cIS/view?usp=share_link) https://drive.google.com/file/d/1N2hmAeKCmNn6orZerreoCYn85i1L4cIS/view?usp=share_link and install in your android phone 
 
 2) Catch all the NFTs
 
