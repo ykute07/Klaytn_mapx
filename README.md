@@ -17,7 +17,7 @@ a)The outbreak of the COVID-19 pandemic has devastated businesses worldwide. The
 
 <img src='./screenshot/map.jpg' />
 
-<img src='./screenshot/proto.jpg' />
+<img src='./screenshot/1.jpg' />
 
 ## Solution
 
@@ -66,6 +66,6 @@ b)This serves as a marketing tool for businesses to drive foot traffic while pro
 
 2) Catch all the NFTs
 
-<img src='./screenshot/proto1.jpg' />
+<img src='./screenshot/3.jpg' />
 
-## Special thanks to Celo Team for their support 
+## Special thanks to Klaytn Team for their support 
